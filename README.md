@@ -181,7 +181,7 @@ MIT License - смотрите файл [LICENSE](LICENSE)
 ## 🔗 Связанные проекты
 
 - [CUDA Samples](https://github.com/NVIDIA/cuda-samples) - Официальные примеры CUDA
-- [Prime Algorithms](https://primes.utm.edu/lists/small/gaps.html) - База данных простых чисел
+- [Prime Algorithms]([[https://primes.utm.edu/lists/small/gaps.html](https://en.wikipedia.org/wiki/Generation_of_primes)](https://t5k.org/)) - База данных простых чисел
 
 ## 📞 Поддержка
 
